@@ -1,3 +1,1 @@
-template-file-path: passwd.template
-parameters: {}
-tags: {}
+/etc/passwd
